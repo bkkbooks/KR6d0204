@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0204/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋迦如來降生禮讚文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1501.xml
+    old_id: X74n1501
+hash: sha256:d5cb5099ed510cc3f1b96ba623e450b7043eb24c43345a7405a55e9731d103c7

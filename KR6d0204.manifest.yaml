@@ -1,0 +1,132 @@
+canonical_identifier: bkk:krp/KR6d0204/v1
+canonical_location: https://kanripo.org/bkk/KR6d0204/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋迦如來降生禮讚文
+  identifiers:
+    alt_id:
+    - X74n1501
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1501.xml
+    old_id: X74n1501
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0204_000.yaml, hash: 'sha256:d5cb5099ed510cc3f1b96ba623e450b7043eb24c43345a7405a55e9731d103c7'}
+  - {seq: 1, filename: KR6d0204_001.yaml, hash: 'sha256:446466ce67d8fc6ea4e5a98e06fa7ba77c3a9b0a157a5f1c7da9b14bb41c8dc6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0204_001.markers.yaml, hash: 'sha256:f5453b0c0c50792235a97deeb460d5131ab4d0bbf2304e79b059ed79152c0db8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1653
+  label: 釋迦降生禮讚文并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-2
+    span:
+    - body
+    - 1159
+    - 1159
+  label: 至心懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-3
+    span:
+    - body
+    - 1280
+    - 1280
+  label: 至心勸請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-4
+    span:
+    - body
+    - 1322
+    - 1322
+  label: 至心隨喜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-5
+    span:
+    - body
+    - 1364
+    - 1364
+  label: 至心迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-6
+    span:
+    - body
+    - 1408
+    - 1408
+  label: 至心發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-7
+    span:
+    - body
+    - 1471
+    - 1471
+  label: 浴佛形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-8
+    span:
+    - body
+    - 1591
+    - 1591
+  label: 浴佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0204_X_001-mulu-9
+    span:
+    - body
+    - 1622
+    - 1622
+  label: 燒香偈
+  type: mulu
+  level: 1
+hash: sha256:f842d7b243f9f0268813631b8d34a549e7b58f940fe9dcdc36d97c17e84399a3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
