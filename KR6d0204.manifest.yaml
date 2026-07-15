@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0204/v1
 canonical_location: https://kanripo.org/bkk/KR6d0204/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 釋迦如來降生禮讚文
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0204_000.yaml, hash: 'sha256:d5cb5099ed510cc3f1b96ba623e450b7043eb24c43345a7405a55e9731d103c7'}
-  - {seq: 1, filename: KR6d0204_001.yaml, hash: 'sha256:98931fa4e2930b7bb8ceb408159541a1ba2c86b37d3461503e21f14d16741466'}
+  - {seq: 1, filename: KR6d0204_001.yaml, hash: 'sha256:f7905a198bfc3cc752f09a6944e1cd336e0528932abd92e4a3271de3aac0276f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0204_000.markers.yaml, hash: 'sha256:825fd92dae699a2c6608f41222e6add77f6f392c526e17764e04ac9063698322'}
-  - {seq: 1, role: markers, filename: assets/KR6d0204_001.markers.yaml, hash: 'sha256:5bff094c3c281cf68f5f27eaa87319c9989ae877df46a6b2e8d41f34aa8cf91e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0204_001.markers.yaml, hash: 'sha256:d02d751bbceaeca5e8d88e9411a8269dea1e22973a823857ea9fd520adfff18a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -127,4 +127,7 @@ table_of_contents:
   label: 燒香偈
   type: mulu
   level: 1
-hash: sha256:856cf2c3ccaca4d01fe5c60bd708488d7d2e342a84faacadb688205e18614d9c
+hash: sha256:ee4466a62b217828a548a513833e1b9644b7d5012de0c8917d1dec64e9cfc094
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
